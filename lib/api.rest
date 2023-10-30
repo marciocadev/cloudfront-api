@@ -1,0 +1,2 @@
+GET http://api.lazinessdevs.com/teste
+Content-Type: application/json
